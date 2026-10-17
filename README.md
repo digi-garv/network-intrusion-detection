@@ -1,10 +1,11 @@
 # Network Intrusion Detection using Machine Learning
 
-Dataset: NSL-KDD
-Model: Random Forest Classifier
-Task: Classify network connections as normal or attack
+- **Dataset:** NSL-KDD
+- **Model:** Random Forest Classifier
+- **Task:** Classify network connections as normal or attack
 
-Results:
+## Results
+
 - Accuracy on validation split of training data: 99.89%
 - Accuracy on separate KDDTest+ file: 78.1%
 
